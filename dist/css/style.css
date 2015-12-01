@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+#site_backgroung {
+	background-position: 0 0;
+background-repeat: repeat;
+background-image: url(../image/black_paper_@2X-min.png);
+}
+
+header {
+height: 265px;
+}
+img {
+	border: 1px solid white;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 5px #CCCCCC; 
+}
+
+#main {
+
+width: 1045px;
+height: 400px;
+background: #ffffff;
+opacity: 0.3;
+border: 1px solid white;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 5px #CCCCCC; 
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+ #footer {
+    padding: 5px;
+    background: black;
+    color: white;
+    width: 1045px;
+    height: 25px; 
+	margin-top: -25px;
+	
+}
